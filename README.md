@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -26,8 +26,8 @@
 
 ---
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
-[🌐 LinkedIn](https://www.linkedin.com/in/gabriel-bandeira)  
-[✉️ Email](mailto:gabrielzandeira@gmail.com)  
-[🐙 GitHub](https://github.com/BielBandeira)
+[ LinkedIn](https://www.linkedin.com/in/gabriel-bandeira-15520725b)  
+[ Email](mailto:gabrielzandeira@gmail.com)  
+[ GitHub](https://github.com/BielBandeira)
